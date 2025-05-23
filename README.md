@@ -1,5 +1,7 @@
 # Live Filtered Contacts App
 A React app that lets you manage contacts with localStorage, debounced search, and tag filtering. Built with clean CSS and performance-optimized hooks.
+ # deployment
+-  https://live-filtered-contacts-app.vercel.app/
 
 # 🚀 Features
 - ✅ Add & delete contacts
@@ -44,6 +46,7 @@ A React app that lets you manage contacts with localStorage, debounced search, a
 - http://localhost:3000
 
 📁 Folder Structure
+src/
 │
 ├── App.js
 ├── index.js
@@ -56,6 +59,7 @@ A React app that lets you manage contacts with localStorage, debounced search, a
     ├── SearchBar.js
     ├── ContactForm.js
     └── ContactCard.js
+
 # 📷 UI
 ![image](https://github.com/user-attachments/assets/51be1ea0-1903-4e37-85fa-52f9f7423451)
 
