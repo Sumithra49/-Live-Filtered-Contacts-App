@@ -46,19 +46,8 @@ A React app that lets you manage contacts with localStorage, debounced search, a
 - http://localhost:3000
 
 📁 Folder Structure
-src/
-│
-├── App.js
-├── index.js
-├── index.css
-│
-├── hooks/
-│   └── useLocalStorage.js
-│
-└── components/
-    ├── SearchBar.js
-    ├── ContactForm.js
-    └── ContactCard.js
+![image](https://github.com/user-attachments/assets/84ac2640-e5b0-4415-af23-8da1d6190195)
+
 
 # 📷 UI
 ![image](https://github.com/user-attachments/assets/51be1ea0-1903-4e37-85fa-52f9f7423451)
