@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.input {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 6px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+label {
+  font-size: 0.9rem;
+  color: #444;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.button {
+  background-color: #1e88e5;
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.button:hover {
+  background-color: #1565c0;
+}
+
+.contact-card {
+  background-color: #fefefe;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+.contact-card h3 {
+  margin: 0 0 5px;
+  font-size: 1.2rem;
+  color: #222;
+}
+
+.contact-card p {
+  margin: 4px 0;
+  color: #555;
+}
+
+.delete-button {
+  color: #e53935;
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  padding: 5px 0;
+  font-weight: bold;
+}
