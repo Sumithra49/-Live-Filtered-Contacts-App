@@ -45,7 +45,7 @@ A React app that lets you manage contacts with localStorage, debounced search, a
 - Open your browser to
 - http://localhost:3000
 
-📁 Folder Structure
+# 📁 Folder Structure
 ![image](https://github.com/user-attachments/assets/84ac2640-e5b0-4415-af23-8da1d6190195)
 
 
